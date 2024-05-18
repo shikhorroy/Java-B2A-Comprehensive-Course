@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Lecture 07: More about Console Input Part 1
+ * Lecture 07: More about Console Input (Part 1)
  */
 public class Lecture07 {
     public static void main(String[] args) {
