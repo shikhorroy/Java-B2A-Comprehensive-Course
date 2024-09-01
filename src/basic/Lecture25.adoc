@@ -12,8 +12,9 @@ More formally, from the oracle documentation: "A package is a namespace that org
 
 01. When we are creating a Java class inside a package we need to mention package name at the top of that class.
 e.g. `package mypackage.controller`
-
 02. Nested packages are seperated by dots while importing.
+03. A package is an identifier, so same rules apply for package naming.
+Ref: Lecture 03 - Identifier Naming and Keywords
 
 == Importance of Java Package
 
