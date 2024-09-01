@@ -1,0 +1,23 @@
+= Java Package
+by Shikhor Roy
+31 Aug 2024
+:toc:
+
+== What is a package in Java?
+
+We can think of different folders in our computer as a package in Java.
+More formally, from the oracle documentation: "A package is a namespace that organizes a set of related classes and interfaces."
+
+== Some Points
+
+01. When we are creating a Java class inside a package we need to mention package name at the top of that class.
+e.g. `package mypackage.controller`
+
+02. Nested packages are seperated by dots while importing.
+
+== Importance of Java Package
+
+01. Improves maintainability and enhance coding structure.
+02. Allows us same class name in different packages.s
+03. Helps us to maintain accessibility of different classes.
+We will see how public, private, protected etc. can be used to control access.

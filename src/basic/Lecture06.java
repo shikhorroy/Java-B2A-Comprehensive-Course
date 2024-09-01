@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Scanner;
 /**
  * Lecture 06: import and User Input from Console

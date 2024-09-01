@@ -1,3 +1,5 @@
+package basic;
+
 /**
  * Lecture 10: More about Console Output (Part 2)
  */

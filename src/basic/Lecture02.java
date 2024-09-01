@@ -1,3 +1,5 @@
+package basic;
+
 public class Lecture02 {
     public static void main(String[] args) {
         int num1 = 500;// initialization

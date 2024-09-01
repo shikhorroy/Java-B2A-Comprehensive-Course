@@ -1,3 +1,5 @@
+package basic;
+
 /**
  * Lecture 15: Array in Java (Part 1)
  */
